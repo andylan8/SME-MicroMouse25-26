@@ -1,4 +1,4 @@
-//Psuedocode
+//Pseudocode
 
 /*
 openSet      ← priority queue (ordered by lowest f-score)
